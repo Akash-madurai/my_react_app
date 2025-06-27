@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "my first post",
+      "datetime": "july 01, 2021 11:17:26 AM",
+      "body": "completed python"
+    },
+    {
+      "id": "2",
+      "title": "my second post",
+      "datetime": "july 20, 2021 12:17:26 AM",
+      "body": "completed html,css,javascript"
+    },
+    {
+      "id": "3",
+      "title": "my third post",
+      "datetime": "August 10, 2021 11:20:56 PM",
+      "body": "Completed React,sql,mongodb"
+    },
+    {
+      "id": "4",
+      "title": "my fourth post",
+      "datetime": "july 01, 2021 1:17:26 AM",
+      "body": "Ready for Data analyst role"
+    },
+    {
+      "id": "5",
+      "title": "My fifth post",
+      "datetime": "June 12, 2025 4:32:34 PM",
+      "body": "I got the job with  good salary package\n"
+    },
+    {
+      "id": "6",
+      "title": "yy",
+      "datetime": "June 13, 2025 6:43:17 PM",
+      "body": "sr"
+    }
+  ]
+}
